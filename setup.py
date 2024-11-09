@@ -8,5 +8,5 @@ setup(
     author='Sarah Christen',
     author_email='sc8rg@virginia.edu',
     license='MIT',
-    packages=['booklover']
+    packages=['bookloverpkg']
 )
